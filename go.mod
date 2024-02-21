@@ -1,4 +1,4 @@
-module github.com/yilongcorywang/banking/banking-lib
+module github.com/yilongcorywang/banking-lib
 
 go 1.22.0
 
